@@ -1,0 +1,8 @@
+v 3
+d Jiaqi Xiao
+d Yiannis Karavias
+d Artūras Juodis
+d Vasilis Sarafidis
+d Jan Ditzen
+p xtgrangert Improved tests for Granger noncausality in panel data.
+
